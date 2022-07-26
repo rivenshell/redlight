@@ -1,0 +1,22 @@
+{
+  "name": "redlight",
+  "version": "1.0.0",
+  "description": "this project enables one to change traffic lights at will. with a atonomy effect that syncs to your car location and atomatically turns lights green as you pass.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivenshell/redlight.git"
+  },
+  "keywords": [
+    "redlight"
+  ],
+  "author": "Rivenshell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rivenshell/redlight/issues"
+  },
+  "homepage": "https://github.com/rivenshell/redlight#readme"
+}
